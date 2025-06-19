@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=methmi23&label=Profile%20views&color=0e75b6&style=flat" alt="methmi23" /> </p>
 
-- 🔭 I’m currently working on **Personal portfolio website**
+- 🔭 I’m currently working on **modern clothing pattern design website**
 
 - 🌱 I’m currently learning **freeCodeCamp courses**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **methmisandamini@gmail.com**
 
-- ⚡ Fun fact **I have a twin sister-and yes,sometimes we code side by side like matching CPUs!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
