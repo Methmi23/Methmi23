@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=methmi23&label=Profile%20views&color=0e75b6&style=flat" alt="methmi23" /> </p>
 
-- 🔭 I’m currently working on **modern clothing pattern design website**
+- 🔭 I’m currently working on a **modern clothing pattern design website**
 
 - 🌱 I’m currently learning **freeCodeCamp courses**
 
